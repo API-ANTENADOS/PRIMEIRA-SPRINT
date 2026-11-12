@@ -2,7 +2,9 @@ Primeira Sprint - Antenados
 -
 *O projeto Observatório de Inovações realiza o mapeamento e a análise do ecossistema de telecomunicações de São José dos Campos, utilizando dados públicos e ferramentas de Business Intelligence para identificar empresas, empregos, indicadores econômicos e oportunidades estratégicas para o setor.*
 
+
 Backlog do Produto
+-
 
 | Classificação | Prioridade | EU IA | História do Usuário | Estimativa (h) | Requisitos do Parceiro |
 | :---: | :---: | :---: | :--- | :---: | :--- |
@@ -15,6 +17,7 @@ Backlog do Produto
 | *7* | MÉDIA | EUA-7 | Como cliente, quero consultar as fontes e períodos dos dados apresentados para garantir rastreabilidade e integridade das informações. | 4 | RF8, RNF9, RNF10 |
 | *8* | MÉDIA | EUA-8 | Como cliente, quero interagir com tabelas e gráficos funcionais para realizar análises personalizadas. | 6 | RF9, RNF1, RNF6, RNF7 |
 | *9* | BAIXA | EUA-9 | Como cliente, quero que a base de dados seja facilmente atualizável para manter o painel sempre renovado com novas fontes. | 8 | RF10, RNF5 |
+
 
 Objetivo do Projeto
 -
