@@ -34,11 +34,11 @@ Dashboard - Empresas de Telecomunicações em SJC
 
 Vídeo da Primeira Sprint
 -
-*Neste vídeo, apresentamos um estudo sobre o setor de telecomunicações em São José dos Campos (SP), explorando dados, indicadores e informações relevantes sobre as empresas que atuam nesse segmento.
+*Neste vídeo, apresentamos um estudo sobre o setor de telecomunicações em São José dos Campos (SP), explorando dados, indicadores e informações relevantes sobre as empresas que atuam nesse segmento.*
 
-Ao longo da apresentação, abordamos o levantamento e a análise de dados, o perfil das empresas, a evolução do setor, indicadores de empregabilidade e aspectos relacionados à inovação e ao desenvolvimento tecnológico.
+*Ao longo da apresentação, abordamos o levantamento e a análise de dados, o perfil das empresas, a evolução do setor, indicadores de empregabilidade e aspectos relacionados à inovação e ao desenvolvimento tecnológico.*
 
-Nosso objetivo é transformar informações em conhecimento, proporcionando uma visão mais ampla do mercado de telecomunicações e sua importância para o desenvolvimento econômico e tecnológico da região.*
+*Nosso objetivo é transformar informações em conhecimento, proporcionando uma visão mais ampla do mercado de telecomunicações e sua importância para o desenvolvimento econômico e tecnológico da região.*
 
 https://youtu.be/KoFFaEfiJgw?si=_iqYxyq54aLuTo_s
 
