@@ -32,6 +32,18 @@ Dashboard - Empresas de Telecomunicações em SJC
 
 <img width="1522" height="854" alt="DashBoard" src="https://github.com/user-attachments/assets/77989e5e-f6ac-49c8-8492-09501dca4b92" />
 
+Vídeo da Primeira Sprint
+-
+*Neste vídeo, apresentamos um estudo sobre o setor de telecomunicações em São José dos Campos (SP), explorando dados, indicadores e informações relevantes sobre as empresas que atuam nesse segmento.
+
+Ao longo da apresentação, abordamos o levantamento e a análise de dados, o perfil das empresas, a evolução do setor, indicadores de empregabilidade e aspectos relacionados à inovação e ao desenvolvimento tecnológico.
+
+Nosso objetivo é transformar informações em conhecimento, proporcionando uma visão mais ampla do mercado de telecomunicações e sua importância para o desenvolvimento econômico e tecnológico da região.*
+
+[![
+SPRINT 1 - Antenados (GPI - 1° Semestre 2026)](https://youtube.com)](https://youtube.com)
+
+
 Cronograma Primeira Sprint
 -
 | <span translate="no">Fase</span> | <span translate="no">Início</span> | <span translate="no">Entrega</span> | <span translate="no">Status</span> |
