@@ -40,9 +40,7 @@ Ao longo da apresentação, abordamos o levantamento e a análise de dados, o pe
 
 Nosso objetivo é transformar informações em conhecimento, proporcionando uma visão mais ampla do mercado de telecomunicações e sua importância para o desenvolvimento econômico e tecnológico da região.*
 
-<a href="https://youtube.com" target="_blank">
-  <img src="https://youtube.com" alt="SPRINT 1 - Antenados" width="480" />
-</a>
+https://youtu.be/KoFFaEfiJgw?si=_iqYxyq54aLuTo_s
 
 
 Cronograma Primeira Sprint
