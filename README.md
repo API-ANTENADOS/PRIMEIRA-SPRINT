@@ -32,6 +32,7 @@ Dashboard - Empresas de Telecomunicações em SJC
 
 <img width="1522" height="854" alt="DashBoard" src="https://github.com/user-attachments/assets/77989e5e-f6ac-49c8-8492-09501dca4b92" />
 
+
 | <span translate="no">Fase</span> | <span translate="no">Início</span> | <span translate="no">Entrega</span> | <span translate="no">Status</span> |
 | :--- | :---: | :---: | :---: |
 | [Sprint 1](#) | 08/10/2026 | 22/10/2026 | :white_check_mark: |
