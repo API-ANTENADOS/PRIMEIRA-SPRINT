@@ -40,8 +40,9 @@ Ao longo da apresentação, abordamos o levantamento e a análise de dados, o pe
 
 Nosso objetivo é transformar informações em conhecimento, proporcionando uma visão mais ampla do mercado de telecomunicações e sua importância para o desenvolvimento econômico e tecnológico da região.*
 
-[![SPRINT 1 - Antenados (GPI - 1° Semestre 2026)](https://youtube.com)](https://youtube.com)
-
+<a href="https://youtube.com" target="_blank">
+  <img src="https://youtube.com" alt="SPRINT 1 - Antenados" width="480" />
+</a>
 
 
 Cronograma Primeira Sprint
